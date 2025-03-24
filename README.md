@@ -14,8 +14,8 @@ Clonar el repositorio desde GitHub:
 Abre tu terminal y escribe:
 git clone https://github.com/TuUsuario/fundamentos_proyecto_c.git
 
-Navegar al directorio del proyecto:
-cd Actividad3
+Navegar al directorio del proyecto:   
+cd Actividad3   
 cd conversor_de_moneda
 
 Compilar el programa:
