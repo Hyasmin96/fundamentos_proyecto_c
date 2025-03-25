@@ -16,6 +16,7 @@ git clone https://github.com/TuUsuario/fundamentos_proyecto_c.git
 
 Navegar al directorio del proyecto:   
 cd Actividad3   
+cd proyecto_c
 cd conversor_de_moneda
 
 Compilar el programa:  
