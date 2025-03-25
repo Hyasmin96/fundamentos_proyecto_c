@@ -12,7 +12,7 @@ Antes de ejecutar este programa, asegúrate de tener lo siguiente instalado en t
 Sigue estos pasos para descargar, compilar y ejecutar el programa en tu sistema:  
 Clonar el repositorio desde GitHub:  
 Abre tu terminal y escribe:  
-git clone https://github.com/TuUsuario/fundamentos_proyecto_c.git
+git clone https://github.com/Hyasmin96/fundamentos_proyecto_c.git
 
 Navegar al directorio del proyecto:   
 cd Actividad3   
